@@ -4,3 +4,6 @@ git add [filename]
 git commit -m "commit message"
 git rm --cache [filename]
 git restore
+git push origin master
+git remote -v
+git remote set-url
